@@ -1,0 +1,8 @@
+# Exercises 
+
+#EX1: WRITE A POWERPOINT ABOUT 
+-TITLE: LEARNING PYTHON 
+-CONTENT 
+ -What is PYTHON
+ -Python Jobs
+ -
